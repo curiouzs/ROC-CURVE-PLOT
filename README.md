@@ -1,4 +1,4 @@
-### EX NO : 
+### EX NO : 07
 ### DATE  :
 # <p align="center"> ROC CURVE PLOT </p>
 ## Aim:
@@ -10,10 +10,12 @@
 ## Related Theory Concept:
 
 ## Algorithm
-1.
-2.
-3.
-4.
+1.Import the required libraries.
+2.Import the dataest and split it into training and testing data.
+3.Make the model using Logisitic regression.
+4.Train the model with training data.
+5.Test the model with testing data.
+6.Plot the ROC curve using matplotlib.
 
 ## Program:
 ```python
