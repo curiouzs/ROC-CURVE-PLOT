@@ -33,7 +33,6 @@ On the other hand, if our classifier is predicting whether someone has a termina
 ## Program:
 ```python
 '''
-Program to plot Receiver Operating Characteristic [ROC] Curve.
 Developed by   : Lokesh Krishnaa M
 RegisterNumber :  212220230030
 '''
