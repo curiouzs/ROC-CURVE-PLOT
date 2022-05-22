@@ -18,16 +18,11 @@ On the other hand, if our classifier is predicting whether someone has a termina
 
 
 ## Algorithm
-1.Import the required libraries.
-
-2.Import the dataest and split it into training and testing data.
-
-3.Make the model using Logisitic regression.
-
-4.Train the model with training data.
-
-5.Test the model with testing data.
-
+1.Import the required libraries.<br />
+2.Import the dataest and split it into training and testing data.<br />
+3.Make the model using Logisitic regression.<br />
+4.Train the model with training data.<br />
+5.Test the model with testing data.<br />
 6.Plot the ROC curve using matplotlib.
 
 ## Program:
