@@ -14,9 +14,11 @@ Uses of ROC Curve :
 One advantage presented by ROC curves is that they aid us in finding a classification threshold that suits our specific problem.
 
 On the other hand, if our classifier is predicting whether someone has a terminal illness, we might be ok with a higher number of false positives (incorrectly diagnosing the illness), just to make sure that we don’t miss any true positives (people who actually have the illness).
-<br />
-<br />
 
+<br />
+<br />
+<br />
+<br />
 
 ## Algorithm
 1.Import the required libraries.<br />
