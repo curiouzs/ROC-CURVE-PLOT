@@ -80,6 +80,8 @@ plt.show()
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/75234646/168518454-30cd1a1a-2798-4c1f-816d-a995a9c2073c.png)
 
+<br />
+<br />
 
 ## Result:
 Thus the python program successully plotted Receiver Operating Characteristic [ROC] Curve.
